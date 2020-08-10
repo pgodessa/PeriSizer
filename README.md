@@ -11,4 +11,7 @@ Scripts measuring the periplasmic space of bacteria at regular intervals based o
 - Define input folder and output folder
 - New table with measurements - keeping original images names - is created 
 
-<b>You must change the value "-0.4748858516878298" at line #28 corresponding to your own pixel size ratio
+# Notes
+
+<b>- You must change the value "-0.4748858516878298" at line #28 corresponding to your own pixel size ratio \
+<b>- Works with .tiff files
