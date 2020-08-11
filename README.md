@@ -1,5 +1,5 @@
 # PeriSizer
-Scripts measuring the periplasmic space of bacteria at regular intervals based on ImageJ overlays delimiting the IM and OM.
+ImageJ script measuring the periplasmic space of bacteria at regular intervals based on overlays delimiting the IM and OM.
 
 # How to use
 - Open your image in ImageJ	
